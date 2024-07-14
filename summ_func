@@ -1,4 +1,4 @@
-def summ_num(a,b):
- return (f'Сумма {a} и {b} равна {a + b}')
+def summ_num(a, b, c):
+ return (f'Сумма {a}, {b} и {с} равна {a + b + c}')
 
-print(summ_num(5,10))
+print(summ_num(5, 10, 5))
