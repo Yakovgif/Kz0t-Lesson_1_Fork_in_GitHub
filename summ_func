@@ -1,4 +1,2 @@
-def summ_num(a, b, z):
- return f'Сумма {a}, {b} и {z} равна {a + b + c} * 2'
-
-print(summ_num(5, 10, 5))
+def summ_num(a, b):
+ return (f'Сумма {a}, {b} и {с} равна {a + b + c}'
