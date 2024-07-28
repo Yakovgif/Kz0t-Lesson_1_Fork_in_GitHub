@@ -1,2 +1,2 @@
 def summ_num(a, b):
- return (f'Сумма {a}, {b} и {с} равна {a + b + c}'
+ return f'Сумма {a}, {b} и {с} равна {a + b + c}'
